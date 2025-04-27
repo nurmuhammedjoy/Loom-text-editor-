@@ -1,9 +1,6 @@
-# Loom-text-editor-
-Sure! Here's a clean, user-friendly `README.md` you can use for your Git project:
 
----
 
-# Loom - A Simple CLI Text Editor
+# Loom - CLI Text Editor
 
 **Loom** is a minimal and easy-to-use command-line text editor, heavily inspired by Vim.  
 It is written in Python and designed for quick editing with a lightweight feel.
