@@ -41,8 +41,6 @@ Add this line to your `.bashrc` or `.zshrc`
 alias loom='python ~/loom/editor.py'
 ```
 
-*(Replace `~/loom/editor.py` with the actual path.)*
-
 Then reload your shell:
 
 ```bash
