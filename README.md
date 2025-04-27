@@ -3,7 +3,7 @@
 # Loom - CLI Text Editor
 
 **Loom** is a minimal and easy-to-use command-line text editor, heavily inspired by Vim.  
-It is written in Python and designed for quick editing with a lightweight feel.
+It written in Python and designed
 
 ---
 
